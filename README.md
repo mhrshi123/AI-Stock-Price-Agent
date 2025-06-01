@@ -36,11 +36,13 @@ A Node.js-powered application that uses AI to monitor, analyze, and act on stock
 git clone https://github.com/yourusername/AI-Stock-Price-Agent.git
 cd AI-Stock-Price-Agent
 npm install
+```
 
 ### Usage
 
 ```bash
 node index.js
+```
 
 Edit .env.example → rename it to .env and insert your keys if using AI features.
 
